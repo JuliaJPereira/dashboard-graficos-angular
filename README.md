@@ -1,4 +1,9 @@
-# Dashboard
+# Dashboard 
+
+### Objetivos:
+- Saber integrar o Angular com a API de gráficos do Google;
+- Aprender a criar diferentes tipos de gráficos;
+- Aprender como criar um observable manualmente;
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.5.
 
