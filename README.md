@@ -5,6 +5,8 @@
 - Aprender a criar diferentes tipos de gráficos;
 - Aprender como criar um observable manualmente;
 
+[Clique aqui](https://dashboard-graphics-api.netlify.app/) para acessar o projeto.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.5.
 
 ## Development server
